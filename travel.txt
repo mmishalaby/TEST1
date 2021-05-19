@@ -3,4 +3,6 @@ Then do that
 If this happens 
 then do that 
 else 
-do nothing
+do nothing 
+--------------------------------------------
+This is the part where the contributor did something
